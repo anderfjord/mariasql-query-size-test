@@ -16,6 +16,8 @@ Setup test table
 ============
 Add the test table to a database using screenshots.sql
 
+Replace database config in [run.js](https://github.com/wreckloose/mariasql-query-size-test/blob/master/run.js#L22)
+
 Run Test Cases
 ============
 
